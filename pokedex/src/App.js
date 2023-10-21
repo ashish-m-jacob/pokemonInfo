@@ -16,11 +16,11 @@ function Display(props) {
           </h6>
           <p class="card-text disp-text">
             <b>Height: </b>
-            {props.info.height}
+            {props.info.height} ft
           </p>
           <p class="card-text disp-text">
             <b>Weight: </b>
-            {props.info.weight}
+            {props.info.weight} kgs
           </p>
           <p class="card-text disp-text">
             <b>Base Experience: </b>
